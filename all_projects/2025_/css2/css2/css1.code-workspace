@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../css1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css2"
+	}
+   {
+		"editor.margin": 0,
+		"editor.fontSize": 13,
+		"editor.renderIndentGuides": false,
+		"editor.renderWhitespace": "all",
+		"files.hotExit": "onExit",
+		"editor.tabSize": 3,
+		"files.trimTrailingWhitespace": false,
+		"editor.wordWrap": "off"
+	}
+}
